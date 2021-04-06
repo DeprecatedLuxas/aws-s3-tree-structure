@@ -1,11 +1,11 @@
 # aws-s3-tree-structure
 
 
-## How to
+## Install
 ```bash
 # cd into the directory
-$ cd fluenticons-extractor
+$ npm install -g aws-s3-tree-structure
 
 # run the script
-$ python extractor.py --token [figma_api_token] --key [figma_key_file]
+$ aws-tree
 ```
