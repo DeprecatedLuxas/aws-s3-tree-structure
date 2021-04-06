@@ -1,6 +1,6 @@
 {
   "name": "aws-s3-tree-structure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "bin": {
     "aws-tree": "./dist/index.js"
